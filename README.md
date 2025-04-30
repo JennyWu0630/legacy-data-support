@@ -47,6 +47,27 @@ I’m Jianyi Wu(you can call me Jenny) , a Master’s student in Economics at Wa
 
 ---
 
+## 📊 Capstone Project: Stock Price Forecasting for Energy Sector
+
+**Objective:**  
+This project applies machine learning models (Random Forest, XGBoost) to predict the next-day closing price and price movement direction of selected U.S. energy sector stocks.
+
+**Methods:**
+- Data preprocessing, normalization, and feature engineering
+- Exploratory data analysis and correlation mapping
+- Baseline model (Random Forest), then GridSearchCV for hyperparameter tuning
+- Model evaluation using Accuracy, Precision, Recall, F1-score
+
+**Results:**  
+- Improved classification performance from baseline (43.2% F1) to tuned model (51.4% F1)
+- Feature importance visualized for interpretability
+- Demonstrated feasibility of structured forecasting pipeline for equity markets
+
+**Tools Used:**  
+Python, scikit-learn, pandas, matplotlib, seaborn
+
+📎 [View Notebook](./Jianyi_Wu_Capstone_Project.ipynb)
+
 ### 📫 Let’s Connect
 📧 Email: jianyi.w@wustl.edu  
 🔗 LinkedIn: [linkedin.com/in/jenny-wu-94a117328](https://www.linkedin.com/in/jenny-wu-94a117328)
